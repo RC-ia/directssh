@@ -23,8 +23,16 @@ em Windows, Linux e macOS.
 | **Editar texto** | Clique no nome de um `.txt`, `.py`, `.json` etc. e edite direto no navegador |
 | **Ver mídia** | Clique no nome de imagens, vídeos, áudios e PDFs para pré-visualizar |
 
-Navegação com breadcrumb ("Início › pasta › subpasta") e botão Voltar do
-Android funcionando (histórico no navegador).
+A interface imita o **Explorador de Arquivos do Windows 10**: barra de
+comando (Enviar, Novo, Renomear, Mudar extensão, Baixar, Excluir), barra
+de endereço com migalhas e caixa de pesquisa, painel de navegação lateral
+("Acesso rápido"), colunas ordenáveis (Nome, Data de modificação, Tipo,
+Tamanho), menu de contexto com o botão direito, clique duplo para abrir,
+atalhos de teclado (F2 renomeia, Delete exclui, Enter abre) e barra de
+status. Em telas de toque, um toque abre o item e o **toque longo** abre
+o menu de contexto.
+
+A pesquisa filtra os itens da pasta atual, como no Explorer.
 
 ---
 
